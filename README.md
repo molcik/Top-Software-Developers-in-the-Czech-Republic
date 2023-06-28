@@ -1,4 +1,4 @@
-# Top Software Developers in the Czech Republic
+# Top Software Development Companies in the Czech Republic
 Top software development companies in Czech Republic
 
 
