@@ -19,6 +19,5 @@ Etnetera is a software development, consulting, and digital marketing company ba
 # [Applifting](https://applifting.cz/)
 Applifting is a software development company based in Prague, Czech Republic. They were founded in 2015 by Jakub Kubíček and Daniel Dočekal. Applifting has a team of over 100 developers, designers, and project managers. They work with a variety of clients, including Kiwi.com, Productboard, and Pipedrive.
 
-# [Blogic](https://www.blogic.cz/)
-Blogic is a Czech software development company with a focus on the finance, insurance, and e-commerce industries. They were founded in 2008 and have a team of over 100 developers, designers, and project managers. Some of Blogic's key clients include ČSOB, Generali Česká pojišťovna, and Rohlik.cz. They have also won a number of awards for their work, including the Czech IT Leader Award and the Deloitte Technology Fast 50 Award.
-
+# [Edhouse](https://www.edhouse.cz/)
+Edhouse is a software development company based in Prague, Czech Republic. They were founded in 2013 by Petr Koucký and Jakub Jelínek. Edhouse has a team of over 50 developers, designers, and project managers. They have worked with a variety of clients, including Google, Avast, and ČEZ.
